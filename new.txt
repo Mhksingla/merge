@@ -1,2 +1,6 @@
 this is my first text file
+<<<<<<< HEAD
 hello everyone
+=======
+add some text
+>>>>>>> 465082bed0b05727402f4069333c2a4afe83787f
